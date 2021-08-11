@@ -1,0 +1,4 @@
+placeholder: pour permettre à l'utilisateur de saisie dans le champ.
+font awesor: pour les icones
+outline:none; pour enlever
+dribbble.com pour les marquettes.

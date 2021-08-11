@@ -1,0 +1,49 @@
+body {
+ @media and screen{ max-width:600px, max-height:600px;}
+  
+}
+.presentation{
+
+	font-size: 20px;
+	width: 100%;
+
+	
+}
+.premiers{
+
+	margin-left: 100px;
+	display: flex;
+}
+.photo1{
+
+   width: 200px; 
+   height: 300px;
+   margin-right: 100px;
+  
+      }
+
+
+ .diplome{
+ 	background-color: blue;
+ 	font-size: 30px;
+ 	border-radius:4px;
+
+ }
+.langue{
+	background-color:blue;
+ 	font-size: 30px;
+ 	border-radius:4px;
+
+}
+.loisir{
+	background-color:blue;
+ 	font-size: 30px;
+ 	border-radius:4px;
+
+}
+.atout{
+
+	background-color:blue;
+ 	font-size: 30px;
+ 	border-radius:4px;
+}
